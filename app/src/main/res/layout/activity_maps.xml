@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#242f3e"
-    tools:context="com.throwntech.groceeryfinder.MapsActivity">
+    tools:context="com.throwntech.groceryfinder.MapsActivity">
 
 
     <fragment

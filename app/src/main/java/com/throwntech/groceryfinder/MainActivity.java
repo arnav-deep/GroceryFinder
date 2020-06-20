@@ -1,4 +1,4 @@
-package com.throwntech.groceeryfinder;
+package com.throwntech.groceryfinder;
 
 import android.app.Dialog;
 import android.content.Intent;

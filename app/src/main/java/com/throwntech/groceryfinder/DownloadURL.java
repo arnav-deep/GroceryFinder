@@ -1,4 +1,4 @@
-package com.throwntech.groceeryfinder;
+package com.throwntech.groceryfinder;
 
 import java.io.BufferedReader;
 import java.io.IOException;
