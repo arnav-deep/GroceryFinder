@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">GroceryFinder</string>
     <string name="title_activity_maps">Map</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="koustubh">Koustubh</string>
 </resources>
